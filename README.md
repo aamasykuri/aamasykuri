@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently working on freelance writer.
+🌱 I’m currently learning Frontend Web Development and Big Data with Python
 <!--
 **aamasykuri/aamasykuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
